@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ncrealestate/static/css/main.073c9b0a.css",
+    "main.js": "/ncrealestate/static/js/main.2650b074.js",
+    "static/js/787.7cb614e4.chunk.js": "/ncrealestate/static/js/787.7cb614e4.chunk.js",
+    "static/media/logo.svg": "/ncrealestate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ncrealestate/index.html",
+    "main.073c9b0a.css.map": "/ncrealestate/static/css/main.073c9b0a.css.map",
+    "main.2650b074.js.map": "/ncrealestate/static/js/main.2650b074.js.map",
+    "787.7cb614e4.chunk.js.map": "/ncrealestate/static/js/787.7cb614e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2650b074.js"
+  ]
+}
